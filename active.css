@@ -1,0 +1,26 @@
+ul{
+    list-style: none;
+}
+
+.nav-item{
+    float: left;
+}
+
+.nav-item a{
+    text-decoration: none;
+    padding: 10px 15px;
+    color: black;
+}
+
+a:hover{
+    background-color: gray;
+
+}
+
+.active{
+    background-color: gray;
+}
+
+.navbar{
+    background-color: greenyellow;
+}
